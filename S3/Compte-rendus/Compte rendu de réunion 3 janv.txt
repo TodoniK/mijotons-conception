@@ -1,0 +1,7 @@
+Au cours de cette réunion avec M. Dourisboure, nous avons présenté notre ébauche d'application sur le téléphone de Yanis.
+
+Nous avons fait part à M. Dourisboure, le choix de changer de langage de programmation et d'IDE (Xamarin -> Android Studio),
+pour des causes de documentation plus accessibles et manipulations/programmtion plus simples.
+
+D'autre part, nous avons de nouveau évoqué la problématique d'accès aux données/base de données, car nous n'avons encore à ce jour, pas trouvé le moyen
+de récupéré les branches de l'API d'OpenFoodFacts.

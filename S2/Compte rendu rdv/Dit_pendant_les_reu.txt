@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+menu en fonction du nombre de recette dispo derrière.
+Montrer l'image original du logo.
+Problème car tout est recensé (tout les aliments).
+Bien réflechir sur le système de base données et de saisie d'aliments ect.
+Creuser l'idée et l'expliquer, justifier les prises de décisions.
+Faire le guide des projet en gros (suivre).
+=======
+menu en fonction du nombre de recette dispo derrière.
+Montrer l'image original du logo.
+Problème car tout est recensé (tout les aliments).
+Bien réflechir sur le système de base données et de saisie d'aliments ect.
+Creuser l'idée et l'expliquer, justifier les prises de décisions.
+Faire le guide des projet en gros (suivre).
+>>>>>>> 7f9fc74 (Ajout de nombreuses fonctionnalités comme le splash screen, la navbar inférieure, la barre de recherche. Implémentation des différentes pages d'aliments, de favoris et d'historique.)
+3 premier points du guide des projet.

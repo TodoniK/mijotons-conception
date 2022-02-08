@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+Lors de cette réunion, nous avons étudié le PDF interactif comportant les maquettes corrigées.
+
+- Nous nous sommes alors posé la question de comment allons-nous gérer les requêtes vers la base de données : ici via l'API d'OpenFoodFacts.
+- Gérer le nombre d'aliments possibles -> nous allons utiliser uniquement des aliments grossiers du style : produit laitiers -> fromage et pas plus.
+Choix possible de manière grossière, car fichier JSON d'OpenFoodFacts comportant les parents de chaque produit (Ex : reblochon -> parent : fromage).
+
+- Nous nous sommes également fixé une limite de 12 aliments par grande catégorie d'aliments.
+
+- Le "plus" servant à l'ajout des aliments d'une recette à une liste de course reste en suspens, car sûrement trop compliqué si l'on ne code pas nos propres recettes.
+
+=======
+Lors de cette réunion, nous avons étudié le PDF interactif comportant les maquettes corrigées.
+
+- Nous nous sommes alors posé la question de comment allons-nous gérer les requêtes vers la base de données : ici via l'API d'OpenFoodFacts.
+- Gérer le nombre d'aliments possibles -> nous allons utiliser uniquement des aliments grossiers du style : produit laitiers -> fromage et pas plus.
+Choix possible de manière grossière, car fichier JSON d'OpenFoodFacts comportant les parents de chaque produit (Ex : reblochon -> parent : fromage).
+
+- Nous nous sommes également fixé une limite de 12 aliments par grande catégorie d'aliments.
+
+- Le "plus" servant à l'ajout des aliments d'une recette à une liste de course reste en suspens, car sûrement trop compliqué si l'on ne code pas nos propres recettes.
+
+>>>>>>> 7f9fc74 (Ajout de nombreuses fonctionnalités comme le splash screen, la navbar inférieure, la barre de recherche. Implémentation des différentes pages d'aliments, de favoris et d'historique.)
+- Diagramme des classes certainement à revoir en fonction des modifications que l'on vient de citer.

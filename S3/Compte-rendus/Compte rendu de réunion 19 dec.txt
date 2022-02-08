@@ -1,0 +1,12 @@
+Suite à notre court rdv, voici un compte-rendu de celui-ci :
+
+- Observation du nouveau diagramme des cas d'utilisation avec nouveaux extend reprenant les anciens cu.
+
+- Observation du nouveau diagramme de classe --> OK ! Simplement revoir certaines cardinalités.
+
+- Objectif de ces vacances : mettre en commun toute la partie conception et agencer tout ceci correctement dans l'optique de créer un git pour notre projet mêlant conception et développement.
+Cela va permettre un versionning plus détaillé mais aussi un accès simple et rapide aux fichiers du projet pour Mr. Dourisboure.
+
+- Commencer le codage de l'application durant ces vacances
+
+- A la rentrée : rdv plus long pour faire un point sur la finalisation de la conception + le commencement de la programmation.

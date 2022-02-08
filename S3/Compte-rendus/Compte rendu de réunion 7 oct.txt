@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+Lors de cette courte entrevue, nous nous sommes vus pour parler de l'avancement de notre projet de développement d'application mobile (Mijotons).
+Nous avons, pour ce rendez-vous, terminé l'élaboration de notre diagramme de classes ainsi que nos diagrammes d'activités de chacun des scénarios de notre application.
+
+Par manque de temps, nous avons décalé ce rendez-vous à lundi midi 13h30 pour que l'on est plus le temps d'aborder ces diagrammes en profondeurs et que ce soit profitable à tout le monde.
+
+En outre, nous vous avons envoyé ces diagrammes par mail pour que vous commenciez à en prendre connaissance.
+
+Fin de compte rendu.
+
+=======
+Lors de cette courte entrevue, nous nous sommes vus pour parler de l'avancement de notre projet de développement d'application mobile (Mijotons).
+Nous avons, pour ce rendez-vous, terminé l'élaboration de notre diagramme de classes ainsi que nos diagrammes d'activités de chacun des scénarios de notre application.
+
+Par manque de temps, nous avons décalé ce rendez-vous à lundi midi 13h30 pour que l'on est plus le temps d'aborder ces diagrammes en profondeurs et que ce soit profitable à tout le monde.
+
+En outre, nous vous avons envoyé ces diagrammes par mail pour que vous commenciez à en prendre connaissance.
+
+Fin de compte rendu.
+
+>>>>>>> 7f9fc74 (Ajout de nombreuses fonctionnalités comme le splash screen, la navbar inférieure, la barre de recherche. Implémentation des différentes pages d'aliments, de favoris et d'historique.)
+Cordialement, le groupe 7.

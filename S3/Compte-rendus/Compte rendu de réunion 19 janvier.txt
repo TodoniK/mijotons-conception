@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+Nous avons présenté à M. Dourisboure nos derniers travaux concernant le CDCT qui est maintenant terminé.
+
+Il s'agissait donc des scénarios remaniés ainsi que des diagrammes de séquences et activités.
+En outre, nous avons apporté une correction finale à notre diagramme des cas d'utilisation.
+
+Nous nous sommes également attardés un instant sur le github ainsi que sur le compte-rendu de CDCT.
+
+Par la suite, nous avons parlé du développement de notre application en mettant certaines choses au clair :
+- Développement en C# sous Xamarin en premier lieu
+- Si trop compliqué, alors on bascule sur du Java sous Android Studio
+- BD créer et peuplé sur le serveur de l'IUT en utilisant PHPmyAdmin
+
+M. Dourisboure nous a en outre, demandé de le tenir au courant de nos prochaines avancées en matière de développement.
+
+=======
+Nous avons présenté à M. Dourisboure nos derniers travaux concernant le CDCT qui est maintenant terminé.
+
+Il s'agissait donc des scénarios remaniés ainsi que des diagrammes de séquences et activités.
+En outre, nous avons apporté une correction finale à notre diagramme des cas d'utilisation.
+
+Nous nous sommes également attardés un instant sur le github ainsi que sur le compte-rendu de CDCT.
+
+Par la suite, nous avons parlé du développement de notre application en mettant certaines choses au clair :
+- Développement en C# sous Xamarin en premier lieu
+- Si trop compliqué, alors on bascule sur du Java sous Android Studio
+- BD créer et peuplé sur le serveur de l'IUT en utilisant PHPmyAdmin
+
+M. Dourisboure nous a en outre, demandé de le tenir au courant de nos prochaines avancées en matière de développement.
+
+>>>>>>> 7f9fc74 (Ajout de nombreuses fonctionnalités comme le splash screen, la navbar inférieure, la barre de recherche. Implémentation des différentes pages d'aliments, de favoris et d'historique.)
+Fin de compte-rendu.

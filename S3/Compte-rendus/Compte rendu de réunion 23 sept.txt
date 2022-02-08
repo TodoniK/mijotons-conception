@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+Lors de cette réunion, nous avons réintroduit notre sujet de projet à Mr. Dourisboure afin de remettre rapidement les choses au clair.
+
+En parallèle à cela, nous avons fait un point sur ce que nous avions déjà réalisé en S1 à savoir le CDCF et ce qui le constitue : MCD, scénarios, maquettes, WBS.
+
+Nous avons donc rédigeait un document faisant une synthèse des travaux déjà réalisé en S1 (que vous pouvez trouver ci-joint à ce mail) et dans lequel nous avons également redéfini le projet en choisissant de ne garder pour l'instant que trois fonctionnalités d'applications à développer.
+
+Finalement, en regardant les travaux à réaliser durant ce S2 avant d'entamer la programmation de notre application, nous avons vu qu'il est nécessaire de faire un diagramme de classe complet.
+
+En outre, nous avons convenu de faire une entrevue avec Mr. Dourisboure au minimum toutes les deux semaines.
+
+=======
+Lors de cette réunion, nous avons réintroduit notre sujet de projet à Mr. Dourisboure afin de remettre rapidement les choses au clair.
+
+En parallèle à cela, nous avons fait un point sur ce que nous avions déjà réalisé en S1 à savoir le CDCF et ce qui le constitue : MCD, scénarios, maquettes, WBS.
+
+Nous avons donc rédigeait un document faisant une synthèse des travaux déjà réalisé en S1 (que vous pouvez trouver ci-joint à ce mail) et dans lequel nous avons également redéfini le projet en choisissant de ne garder pour l'instant que trois fonctionnalités d'applications à développer.
+
+Finalement, en regardant les travaux à réaliser durant ce S2 avant d'entamer la programmation de notre application, nous avons vu qu'il est nécessaire de faire un diagramme de classe complet.
+
+En outre, nous avons convenu de faire une entrevue avec Mr. Dourisboure au minimum toutes les deux semaines.
+
+>>>>>>> 7f9fc74 (Ajout de nombreuses fonctionnalités comme le splash screen, la navbar inférieure, la barre de recherche. Implémentation des différentes pages d'aliments, de favoris et d'historique.)
+Cordialement, le groupe 7 DUT S2 TD1.

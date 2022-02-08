@@ -1,0 +1,64 @@
+<<<<<<< HEAD
+Lors de cette réunion, nous avons étudié le diagramme de classe de notre projet et apporté certaines corrections :
+
+
+
+- Pour savoir si une classe est vraiment utile, nous nous sommes posé la question : est-ce que je suis capable de mettre un attribut nom quand je fais une classe ?
+
+
+
+- Pour les classes d'asso favoris et historique, cardinalité si limite de favoris et historique (oui ici max=20).
+
+
+
+D'autre part, nous avons pris le temps de regarder les maquettes et scénarios et apporter des modifications à ceux-ci :
+
+
+
+- Pour la maquette de recherche de recette, insérer une maquette recherche ingrédients (Ex : recherche->riz)
+
+
+
+- Pour cette même maquette, intégrer un système de filtre des résultats (Ex : manquer 1 aliment).
+
+- Proposer recette en fonction d'un aliment manquant.
+
+
+
+- Liste de course évolutive genre pas de suppression seulement suppression des sélections par exemple.
+
+
+
+=======
+Lors de cette réunion, nous avons étudié le diagramme de classe de notre projet et apporté certaines corrections :
+
+
+
+- Pour savoir si une classe est vraiment utile, nous nous sommes posé la question : est-ce que je suis capable de mettre un attribut nom quand je fais une classe ?
+
+
+
+- Pour les classes d'asso favoris et historique, cardinalité si limite de favoris et historique (oui ici max=20).
+
+
+
+D'autre part, nous avons pris le temps de regarder les maquettes et scénarios et apporter des modifications à ceux-ci :
+
+
+
+- Pour la maquette de recherche de recette, insérer une maquette recherche ingrédients (Ex : recherche->riz)
+
+
+
+- Pour cette même maquette, intégrer un système de filtre des résultats (Ex : manquer 1 aliment).
+
+- Proposer recette en fonction d'un aliment manquant.
+
+
+
+- Liste de course évolutive genre pas de suppression seulement suppression des sélections par exemple.
+
+
+
+>>>>>>> 7f9fc74 (Ajout de nombreuses fonctionnalités comme le splash screen, la navbar inférieure, la barre de recherche. Implémentation des différentes pages d'aliments, de favoris et d'historique.)
+- Seulement géolocalisation pour carte sinon trop compliqué juste message avant de demande d'autorisation.
