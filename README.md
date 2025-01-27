@@ -1,4 +1,3 @@
-# <img src="http://image.noelshack.com/fichiers/2022/01/7/1641743170-logo-removebg-preview.png" width="500px">
 <h1><i> À propos de Mijotons ! </i></h1>
 
 Mijotons est une application multi-plateforme basée sur le thème de la confection de recettes,
