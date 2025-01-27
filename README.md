@@ -8,7 +8,7 @@ Mijotons est une application multi-plateforme basée sur le thème de la confect
 
 <br>
 
-Nous développons cette application via le software Android Studio. <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png" width="150px"> 
+Nous développons cette application via le software Android Studio. 
 
 <br>
 
@@ -21,6 +21,3 @@ Pour l'instant, vous pouvez retrouver notre conception d'application des semestr
 Copyright ©️ - Groupe 7 - IUT de Bayonne
 
 <br>
-
-<img src="http://image.noelshack.com/fichiers/2022/01/7/1641743818-logo-iut-2018-h-removebg-preview.png" width="300px"> 
-
