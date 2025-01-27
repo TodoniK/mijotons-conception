@@ -1,10 +1,6 @@
 <h1><i> À propos de Mijotons ! </i></h1>
 
-Mijotons est une application multi-plateforme basée sur le thème de la confection de recettes,
-
-<br>
-
-à partir des aliments que l'on possède chez soi !👨‍🍳
+Mijotons est une application multi-plateforme basée sur le thème de la confection de recettes,à partir des aliments que l'on possède chez soi !👨‍🍳
 
 <br>
 
